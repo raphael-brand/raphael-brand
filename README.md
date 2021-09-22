@@ -1,3 +1,5 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=raphael-brand)
+
 ### Hi there 👋 My name is Raphael
 
 - 🔭 I’m currently planning a project to preserve privacy and data protection
