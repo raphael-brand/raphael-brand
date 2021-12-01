@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning all kinds of things related to ``Elm``
 - 👯 I’m looking to collaborate on front end related projects with ``<HTML />`` ``#CSS{}`` and ``javascript=()=>{}`` 
      Although formerly known as PUG, LESS, SCSS, SASS, Typescript, Svelte, node.js, Angular, React, Vue and the rest of the web development universe
-- 🤔 I’m looking for help with finding a new job 
+- 🤔 I'm rarely available, except I have a meeting.
 - 💬 Ask me about anything ...
 - 📫 How to reach me: http://r5lb3d.de ...
 - 😄 Pronouns: He/Him
