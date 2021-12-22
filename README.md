@@ -10,7 +10,7 @@
 - 💬 Ask me about anything ...
 - 📫 How to reach me: http://r5lb3d.de ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Did not know how to touch-type since working as a programmer for more than 10 years
+- ⚡ Fun fact: Learned Touch-Typing after working as a programmer since more than 10 years.
 
  <div>
   <a href="https://github.com/raphael-brand"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=raphael-brand&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
