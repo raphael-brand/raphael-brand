@@ -7,8 +7,7 @@
 - 👯 I’m looking to collaborate on front end related projects with ``<HTML />`` ``#CSS{}`` and ``javascript=()=>{}`` 
      Although formerly known as PUG, LESS, SCSS, SASS, Typescript, Svelte, node.js, Angular, React, Vue and the rest of the web development universe
 - 🤔 I'm rarely available, except I have a meeting.
-- 💬 Ask me about anything ...
-- 📫 How to reach me: http://raphaelbrand.de ...
+- 💬 Ask me about anything (by sending a pull request)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Learned Touch-Typing after working as a programmer since more than 10 years.
 
