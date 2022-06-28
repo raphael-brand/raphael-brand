@@ -11,7 +11,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Learned Touch-Typing after working as a programmer since more than 10 years.
 
- <div>
-  <a href="https://github.com/raphael-brand"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=raphael-brand&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-brand&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+ 
