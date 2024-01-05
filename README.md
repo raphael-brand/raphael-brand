@@ -10,6 +10,4 @@
 - 💬 Ask me about anything (by sending a pull request)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Learned Touch-Typing after working as a programmer since more than 10 years.
-
-![Metrics](https://metrics.lecoq.io/raphael-brand)
  
